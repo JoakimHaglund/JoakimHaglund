@@ -25,7 +25,7 @@ I am currently seeking an internship opportunity at a company with a focus on .N
 #### What I'm currently doing:
 🌱 I’m currently learning Frontend development using HTML5, CSS & Javascript/typescript
 
-🔭 I’m currently working on a dietary app. It is currently in the planning stage and will use all the technologies i learn in school. The project is intended to help me retain knowledge from school courses and give me free regin to dig deeper in the technologies an techniques we learn at school and explore new ones. 
+🔭 I’m currently working on a dietary app. at the moment it is in the planning stage and will use all the technologies i learn in school. The project is intended to help me retain knowledge from school courses and give me free regin to dig deeper in the technologies an techniques we learn at school and explore new ones. 
 
 <!--
 **JoakimHaglund/JoakimHaglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
