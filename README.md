@@ -8,8 +8,8 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img alt="CSS" width="45px" align="left" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img alt="SQL" width="45px" align="left" style="padding-right:10px"
-  src="">
+<img alt="SQL" width="45px" height="45px" align="left" style="padding-right:10px"
+  src="https://github.com/JoakimHaglund/JoakimHaglund/blob/main/sql-database-generic.svg">
 <br />
 
 <!--
