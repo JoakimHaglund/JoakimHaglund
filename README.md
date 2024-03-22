@@ -17,6 +17,8 @@ I am currently seeking an internship opportunity at a company with a focus on .N
   src="https://github.com/JoakimHaglund/JoakimHaglund/blob/main/Icons/javascript.svg"/>
 <img alt="Typescript" width="45px" height="45px" align="left" style="padding-right:10px"
   src="https://github.com/JoakimHaglund/JoakimHaglund/blob/main/Icons/typescript.svg"/>
+<img alt="VueJS" width="45px" align="left" style="padding-right:10px"
+  src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img alt="Lua" width="45px" height="45px" align="left" style="padding-right:10px"
   src="https://github.com/JoakimHaglund/JoakimHaglund/blob/main/Icons/lua.svg"/>
 <br />
