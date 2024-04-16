@@ -25,7 +25,7 @@ I am currently seeking an internship opportunity at a company with a focus on .N
 <br />
 ---
 #### What I'm currently doing:
-🌱 I’m currently learning Frontend development using HTML5, CSS & Javascript/typescript
+🌱 I’m currently learning Backend development using ASP.NET with Razor pages and later Blazor
 
 🔭 I’m currently working on a dietary app. at the moment it is in the planning stage and will use all the technologies i learn in school. The project is intended to help me retain knowledge from school courses and give me free regin to dig deeper in the technologies an techniques we learn at school and explore new ones. 
 
