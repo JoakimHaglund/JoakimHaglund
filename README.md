@@ -1,7 +1,7 @@
-# Welcome to my Github profile!
+# Welcome!
 Hello my name is Joakim Halund Malm and I'm a student at Teknikhögskolan in Göteborg where im studying to become a .NET-Developer.
 
-I am currently seeking an internship opportunity at a company with a focus on .NET development during the weeks 43-50 in 2024 and 3-21 in 2025.
+I am currently seeking an internship opportunity at a company with a focus on .NET development during the weeks 3-21 in 2025.
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -24,12 +24,12 @@ I am currently seeking an internship opportunity at a company with a focus on .N
 <br />
 <br />
 ---
-#### What I'm currently doing:
-🌱 I’m currently learning Backend development using ASP.NET with Razor pages and later Blazor
+<!--#### What I'm currently doing:
+🌱 School: 
 
 🔭 I’m currently working on a dietary app. at the moment it is in the planning stage and will use all the technologies i learn in school. The project is intended to help me retain knowledge from school courses and give me free regin to dig deeper in the technologies an techniques we learn at school and explore new ones. 
 
-<!--
+
 **JoakimHaglund/JoakimHaglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
